@@ -23,7 +23,7 @@ header h1 {
 }
 
 header h1 span {
-    color: #64b04c;
+    color: #537eff;
 }
 
 nav ul {
@@ -90,7 +90,7 @@ section ul li{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-color: #6ab04c;
+    background-color: #537eff;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -164,11 +164,11 @@ form textarea {
 form input:focus,
 form textarea:focus {
 outline: none;
-box-shadow: 0 0 3px #6AB04C;
+box-shadow: 0 0 3px #537eff;
 }
 
 form input[type="submit"] {
-background-color: #6AB04C;
+background-color: #537eff;
 color: #F5F5F5;
 padding: 10px 20px;
 border: none;
@@ -194,6 +194,6 @@ font-size: 1rem;
 }
 
 footer span {
-color: #6AB04C;
+color: #537eff;
 font-weight: bold;
 }
