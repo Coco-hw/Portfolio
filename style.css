@@ -111,14 +111,14 @@ section ul li:before {
 }
 
 section ul li i {
-	font-size: 4rem;
+	font-size: 2.5rem;
 	margin-bottom: 20px;
 	color: #F5F5F5;
 }
 
 section ul li h3 {
 	font-size: 1.5rem;
-	margin-bottom: 10px;
+	margin-bottom: 0;
 	color: #F5F5F5;
 }
 
